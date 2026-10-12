@@ -1,4 +1,5 @@
 .DS_Store
+desktop.ini
 
 application/cache/*
 !application/cache/index.html
